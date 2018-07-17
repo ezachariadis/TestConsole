@@ -1,1 +1,0 @@
-Console.Writeline(O coach einai gay)
